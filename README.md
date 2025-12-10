@@ -40,3 +40,16 @@ Pastikan Anda meletakkan folder proyek ini di direktori *root* server lokal Anda
 ## 📂 Struktur Folder
 
 Walaupun repositori ini masih dasar, berikut adalah perkiraan struktur yang mungkin ada:
+latihandasar/ ├── latihandasar/ │ ├── index.php # File utama atau dashboard (jika ada) │ ├── 01_dasar_sintaks.php │ ├── 02_kondisi.php │ ├── 03_perulangan.php │ ├── 04_fungsi.php │ └── ... ├── README.md # File yang sedang Anda baca └── .gitignore
+
+
+## 👥 Kontribusi
+
+Jika Anda menemukan kesalahan, ingin memberikan saran perbaikan, atau menambahkan contoh latihan baru, silakan lakukan *fork* repositori ini dan kirimkan *Pull Request*. Kontribusi sangat dihargai!
+
+## 📜 Lisensi
+
+Proyek ini berada di bawah lisensi [MIT License](https://opensource.org/licenses/MIT). *(Anda dapat mengubah atau menghapus bagian ini jika menggunakan lisensi yang berbeda)*
+
+---
+**Happy Coding!** 🎉
